@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "F:\datacenter-repository\pythonHome\cleancode1.py", line 21, in <module>
+    divide_by_zero(5)
+  File "F:\datacenter-repository\pythonHome\cleancode1.py", line 18, in divide_by_zero
+    return x / 0
+ZeroDivisionError: division by zero
