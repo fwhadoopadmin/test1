@@ -1,0 +1,36 @@
+# setting configuration ci|cd 
+#################################
+#Layer ci >> will run the tests automatically for all developers 
+
+
+1) install all softwares { docker and docker compose)
+-  compose for running multiple vms 
+
+2) Build all micro-services 
+- start them locally within the test runner & run tests against them 
+-start all services 
+
+3) deploy the pipeline 
+-can skip for now 
+
+4) Run tests 
+-	# add the config { Layerfile to git)
+
+tests will be running automatically 
+
+################################################
+
+cypress and layerci -- check login and code success
+-if messages still work 
+-core workflow must be working and see file for what developer has done 
+
+and see the pipeline 
+# layerCI -> gives each blok of ci/cd 
+
+#---------------------------
+we can automate all ci checks must pass before the change get merged
+- we can run linters, unit-test and other tests 
+
+
+
+ 
